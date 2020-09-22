@@ -1,0 +1,24 @@
+{
+  "name": "atendimento-api",
+  "version": "1.0.0",
+  "description": "Teste de API para seleção na CUBOS IO",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/palomaarize/Atendimento-API.git"
+  },
+  "keywords": [
+    "node",
+    "teste",
+    "selecao"
+  ],
+  "author": "Paloma Arize",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/palomaarize/Atendimento-API/issues"
+  },
+  "homepage": "https://github.com/palomaarize/Atendimento-API#readme"
+}
